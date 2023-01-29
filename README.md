@@ -6,7 +6,7 @@
 
 -->
 
-# Hi! I'm David, an aspiring IT professional 🖥💻⚙
+# Hi! I'm David, an aspiring IT professional 🖥⚙
 
 ## 👨‍💻 Information Technology Projects:
 
