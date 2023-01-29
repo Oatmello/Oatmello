@@ -17,7 +17,17 @@
 ### Low Cost All Inclusive Hacking Lab - Only ~$0.50 a day!
 
 ### Arch Linux Install - Made Easy
+[![Arch Linux Install - How to Guide][4]]
 
+[4]: https://github.com/Oatmello/archinstall-How-To-Guide
+[5]: https://www.linkedin.com/in/david-g-169207157/
+[6]: https://www.linkedin.com/in/david-g-169207157/
+[7]: https://www.linkedin.com/in/david-g-169207157/
+[8]: https://www.linkedin.com/in/david-g-169207157/
+[9]: https://www.linkedin.com/in/david-g-169207157/
+[10]: https://www.linkedin.com/in/david-g-169207157/
+[11]: https://www.linkedin.com/in/david-g-169207157/
+[12]: https://www.linkedin.com/in/david-g-169207157/
 
 ## 📞 Connect with me:
 [![Image of LinkedIn][2]][3]
