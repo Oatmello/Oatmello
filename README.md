@@ -12,9 +12,9 @@
 
 ### Active Directory (Oracle VirtualBox)
 
-### osTicket (Help Desk Ticketing System)
+### osTicket (Open Source Help Desk Ticketing System)
 
-### Microsoft Azure
+### Microsoft Azure (AD in the Cloud)
 
 ### Arch Linux Install - Made Easy
 
