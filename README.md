@@ -1,4 +1,12 @@
-# Hi! I'm David, an aspiring IT professional 😊
+<!--
+
+![Image of Linux Penguin][1]
+
+[1]: https://raw.githubusercontent.com/Oatmello/Markdowns/main/images/linux.png
+
+-->
+
+# Hi! I'm David, an aspiring IT professional 😊 🔐
 
 ## 👨‍💻 Information Technology Projects:
 
@@ -12,11 +20,11 @@
 
 
 ## 📞 Connect with me:
-[![Image of LinkedIn][1]][2]
+[![Image of LinkedIn][2]][3]
 
-[1]: https://raw.githubusercontent.com/Oatmello/Markdowns/main/images/linked%20in%20logo.png
+[2]: https://raw.githubusercontent.com/Oatmello/Markdowns/main/images/linked%20in%20logo.png
 
-[2]: https://www.linkedin.com/in/david-g-169207157/
+[3]: https://www.linkedin.com/in/david-g-169207157/
 
 <!--
 **Oatmello/Oatmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
