@@ -14,7 +14,7 @@
 
 ### osTicket (Open Source Help Desk Ticketing System)
 
-### Low Cost All Inclusive Hacking Lab - Only ~$1 a day!
+### Low Cost All Inclusive Hacking Lab - Only ~$0.50 a day!
 
 ### Arch Linux Install - Made Easy
 
