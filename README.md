@@ -19,15 +19,21 @@
 - [Setting up Microsoft 365]()
 - [Adding Network Printers]()
 <!-- Making the Client2 VM()-->
-
+<!--
 ### Jira (Help Desk Ticketing System)
 - [Installation & Configuration]()
 - [Ticket Life Cycle Examples]()
+-->
 <!--
 ### osTicket (Open Source Help Desk Ticketing System)
 - [Installation and Configuration]()
 - [Setup for Success]()
 - [Ticket Life Cycle Examples]()
+
+### Microsoft Azure
+- []()
+- []()
+- []()
 
 ### Low Cost All Inclusive Hacking Lab - Only ~$0.50 a day!
 - [How is this possible?]()
