@@ -6,29 +6,41 @@
 
 -->
 
-# Hi! I'm David, an aspiring IT professional 🖥⚙
+# Hi! I'm David, an aspiring IT professional 🖥⚙🛠
 
 ## 👨‍💻 Information Technology Projects:
 
 ### Active Directory (Oracle VirtualBox)
+- [Getting started: Spinning up the VM]()
+- [Making the Domain Controller]()
+- [Installing AD, RAS/NAT, & DHCP]()
+- [The Power of Powershell]()
+- [Making the Client1 VM]()
+- [Setting up Microsoft 365]()
+- [Adding Network Printers]()
+<!-- Making the Client2 VM()-->
 
+### Jira (Help Desk Ticketing System)
+- [Installation & Configuration]()
+- [Ticket Life Cycle Examples]()
+<!--
 ### osTicket (Open Source Help Desk Ticketing System)
+- [Installation and Configuration]()
+- [Setup for Success]()
+- [Ticket Life Cycle Examples]()
 
 ### Low Cost All Inclusive Hacking Lab - Only ~$0.50 a day!
+- [How is this possible?]()
+- [What do you need?]()
+- [Building your lab part 1]()
+- [Building your lab part 2]()
+- [Launching vulnerable virtual machine]()
+- [Logging into your Kali Box]()
+- [Possibilities are endless!]()
 
 ### Arch Linux Install - Made Easy
-[![Arch Linux Install - How to Guide][4]]
-
-[4]: https://github.com/Oatmello/archinstall-How-To-Guide
-[5]: https://www.linkedin.com/in/david-g-169207157/
-[6]: https://www.linkedin.com/in/david-g-169207157/
-[7]: https://www.linkedin.com/in/david-g-169207157/
-[8]: https://www.linkedin.com/in/david-g-169207157/
-[9]: https://www.linkedin.com/in/david-g-169207157/
-[10]: https://www.linkedin.com/in/david-g-169207157/
-[11]: https://www.linkedin.com/in/david-g-169207157/
-[12]: https://www.linkedin.com/in/david-g-169207157/
-
+- [Arch Linux Install - How to Guide](https://github.com/Oatmello/archinstall-How-To-Guide)
+-->
 ## 📞 Connect with me:
 [![Image of LinkedIn][2]][3]
 
