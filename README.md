@@ -11,13 +11,13 @@
 ## 👨‍💻 Information Technology Projects:
 
 ### Active Directory (Oracle VirtualBox)
-- [Getting started: Spinning up the VM]()
-- [Making the Domain Controller]()
-- [Installing AD, RAS/NAT, & DHCP]()
-- [The Power of Powershell]()
-- [Making the Client1 VM]()
-- [Setting up Microsoft 365]()
-- [Adding Network Printers]()
+- [Getting started: Spinning up the VM](https://github.com/Oatmello/spinninguptheVM)
+- [Making the Domain Controller](https://github.com/Oatmello/domaincontroller)
+- [Installing AD, RAS/NAT, & DHCP](https://github.com/Oatmello/AD-RAS-NAT-DHCP)
+- [The Power of Powershell](https://github.com/Oatmello/PowerofPowershell)
+- [Making the Client1 VM](https://github.com/Oatmello/Clien1-VM)
+- [Setting up Microsoft 365](https://github.com/Oatmello/setup-MO365)
+- [Adding Network Printers](https://github.com/Oatmello/networkprinters)
 <!-- Making the Client2 VM()-->
 <!--
 ### Jira (Help Desk Ticketing System)
