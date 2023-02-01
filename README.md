@@ -21,13 +21,14 @@
 <!-- Making the Client2 VM()-->
 
 ### Microsft Azure AD: Attacking Active Directory in the Cloud ☁🔓
-- [Our First Attack! - LLMNR Poisoning]()
-  - [LLMNR Poisoning Defense]()
-- [Capturing NTLMv2 Hashes with Responder]()
-- [Password Cracking with Hashcat]()
-- [SMB Relay Attacks Overview]()
-- [IPv6 Attacks Overview]()
-  - [IPv6 Attack Defenses]()
+- [Our First Attack! - LLMNR Poisoning](https://github.com/Oatmello/LLMNR-Poisoning)
+  - [LLMNR Poisoning Defense](https://github.com/Oatmello/LLMNR-Poisoning-Defense)
+- [Capturing NTLMv2 Hashes with Responder](https://github.com/Oatmello/NTLMv2-Hashes)
+- [Password Cracking with Hashcat](https://github.com/Oatmello/Password-Cracking-Hashcat)
+- [SMB Relay Attacks Overview](https://github.com/Oatmello/SMB-Relay-Attacks-Overview)
+- [IPv6 Attacks Overview](https://github.com/Oatmello/IPv6-Attacks-Overview)
+  - [IPv6 Attack Defenses](https://github.com/Oatmello/IPv6-Attack-Defenses)
+
 <!--
 ### Jira (Help Desk Ticketing System)
 - [Installation & Configuration]()
