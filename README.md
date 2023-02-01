@@ -20,6 +20,18 @@
 - [Adding Network Printers](https://github.com/Oatmello/networkprinters)
 <!-- Making the Client2 VM()-->
 
+### Microsft Azure: Deploying A Active Directory Lab
+- [Building a Free Active Directory Lab in Azure]()
+- [Account Creation]()
+- [Resource Group Creation]()
+- [Virtual Network Creation]()
+- [Configuring Services]()
+- [Setting up a Share]()
+- [Setting up First User Machine]()
+- [Setting up Second User Machine]()
+- [User Machines Join Domain]()
+
+<!--
 ### Microsft Azure AD: Attacking Active Directory in the Cloud ☁🔓
 - [Our First Attack! - LLMNR Poisoning](https://github.com/Oatmello/LLMNR-Poisoning)
   - [LLMNR Poisoning Defense](https://github.com/Oatmello/LLMNR-Poisoning-Defense)
@@ -28,7 +40,7 @@
 - [SMB Relay Attacks Overview](https://github.com/Oatmello/SMB-Relay-Attacks-Overview)
 - [IPv6 Attacks Overview](https://github.com/Oatmello/IPv6-Attacks-Overview)
   - [IPv6 Attack Defenses](https://github.com/Oatmello/IPv6-Attack-Defenses)
-
+-->
 <!--
 ### Jira (Help Desk Ticketing System)
 - [Installation & Configuration]()
