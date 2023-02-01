@@ -20,7 +20,7 @@
 - [Adding Network Printers](https://github.com/Oatmello/networkprinters)
 <!-- Making the Client2 VM()-->
 
-### Microsft Azure: Deploying A Active Directory Lab
+### Microsft Azure: Deploying a Active Directory Lab 🐉
 - [Building a Free Active Directory Lab in Azure]()
 - [Account Creation]()
 - [Resource Group Creation]()
