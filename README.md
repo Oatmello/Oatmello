@@ -6,11 +6,11 @@
 
 -->
 
-# Hi! I'm David, an aspiring IT professional 🖥⚙🛠
+# Hi! I'm David, an aspiring IT professional 🖥⚙🛠 
 
 ## 👨‍💻 Information Technology Projects:
 
-### Active Directory (Oracle VirtualBox)
+### Active Directory (Oracle VirtualBox) 🎛
 - [Getting started: Spinning up the VM](https://github.com/Oatmello/spinninguptheVM)
 - [Making the Domain Controller](https://github.com/Oatmello/domaincontroller)
 - [Installing AD, RAS/NAT, & DHCP](https://github.com/Oatmello/AD-RAS-NAT-DHCP)
@@ -19,6 +19,15 @@
 - [Setting up Microsoft 365](https://github.com/Oatmello/setup-MO365)
 - [Adding Network Printers](https://github.com/Oatmello/networkprinters)
 <!-- Making the Client2 VM()-->
+
+### Microsft Azure AD: Attacking Active Directory in the Cloud ☁🔓
+- [Our First Attack! - LLMNR Poisoning]()
+  - [LLMNR Poisoning Defense]()
+- [Capturing NTLMv2 Hashes with Responder]()
+- [Password Cracking with Hashcat]()
+- [SMB Relay Attacks Overview]()
+- [IPv6 Attacks Overview]()
+  - [IPv6 Attack Defenses]()
 <!--
 ### Jira (Help Desk Ticketing System)
 - [Installation & Configuration]()
