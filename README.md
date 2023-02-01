@@ -20,7 +20,7 @@
 - [Adding Network Printers](https://github.com/Oatmello/networkprinters)
 <!-- Making the Client2 VM()-->
 
-### Microsft Azure: Deploying a Active Directory Lab 🐉
+### Microsft Azure: Deploying a Active Directory Lab 🔬🥼
 - [Building a Free Active Directory Lab in Azure]()
 - [Account Creation]()
 - [Resource Group Creation]()
@@ -30,9 +30,9 @@
 - [Setting up First User Machine]()
 - [Setting up Second User Machine]()
 - [User Machines Join Domain]()
-
 <!--
 ### Microsft Azure AD: Attacking Active Directory in the Cloud ☁🔓
+- [Setting up Kali Linux]()
 - [Our First Attack! - LLMNR Poisoning](https://github.com/Oatmello/LLMNR-Poisoning)
   - [LLMNR Poisoning Defense](https://github.com/Oatmello/LLMNR-Poisoning-Defense)
 - [Capturing NTLMv2 Hashes with Responder](https://github.com/Oatmello/NTLMv2-Hashes)
