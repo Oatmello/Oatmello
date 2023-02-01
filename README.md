@@ -21,7 +21,7 @@
 <!-- Making the Client2 VM()-->
 
 ### Microsft Azure: Deploying a Active Directory Lab 🔬🥼
-- [Building a Free Active Directory Lab in Azure]()
+- [Building a Free Active Directory Lab in Azure](https://github.com/Oatmello/FreeAzureLab)
 - [Account Creation]()
 - [Resource Group Creation]()
 - [Virtual Network Creation]()
