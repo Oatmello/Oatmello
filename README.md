@@ -9,7 +9,7 @@
 # Hi! I'm David, an aspiring IT professional 🖥⚙🛠 
 
 ## 👨‍💻 Information Technology Projects:
-
+<!--
 ### Active Directory (Oracle VirtualBox) 🎛
 - [Getting started: Spinning up the VM](https://github.com/Oatmello/spinninguptheVM)
 - [Making the Domain Controller](https://github.com/Oatmello/domaincontroller)
@@ -24,7 +24,9 @@
 - [Building a Free Active Directory Lab in Azure](https://github.com/Oatmello/FreeAzureLab)
 - [Resource Group Creation]()
 - [Virtual Network Creation]()
-- [Configuring Services]()
+- [Domain Controller]()
+    - [Configuring Services]()
+    - [Configuring Certificate Services]()
 - [Setting up a Share]()
 - [Setting up First User Machine]()
 - [Setting up Second User Machine]()
