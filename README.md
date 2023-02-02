@@ -22,15 +22,15 @@
 
 ### Microsft Azure: Deploying a Active Directory Lab 🔬🥼
 - [Building a Free Active Directory Lab in Azure](https://github.com/Oatmello/FreeAzureLab)
-- [Resource Group Creation]()
-- [Virtual Network Creation]()
-- [Domain Controller]()
-    - [Configuring Services]()
-    - [Configuring Certificate Services]()
-- [Setting up a Share]()
-- [Setting up First User Machine]()
-- [Setting up Second User Machine]()
-- [User Machines Join Domain]()
+- [Resource Group Creation](https://github.com/Oatmello/resource-group-creation)
+- [Virtual Network Creation](https://github.com/Oatmello/Virtual-Network-Creation/blob/main/README.md)
+- [Domain Controller(In Construction)]()
+    - [Configuring Services(In Construction)]()
+    - [Configuring Certificate Services(In Construction)]()
+- [Setting up a Share(In Construction)]()
+- [Setting up First User Machine(In Construction)]()
+- [Setting up Second User Machine(In Construction)]()
+- [User Machines Join Domain(In Construction)]()
 <!--
 ### Microsft Azure AD: Attacking Active Directory in the Cloud ☁🔓
 - [Setting up Kali Linux]()
